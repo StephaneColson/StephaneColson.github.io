@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Stéphane Colson - [Blog](https://www.lyontesting.fr/en/author/scolson/)
+Stéphane Colson :
+- [Blog](https://www.lyontesting.fr/en/author/scolson/)
+- [Website](http://testingit.eu)
